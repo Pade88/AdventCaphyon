@@ -23,4 +23,5 @@ int main()
 
 
 	cout << "The real frequency after variations is: " << real_frequency;
+	delete[] v;
 }
